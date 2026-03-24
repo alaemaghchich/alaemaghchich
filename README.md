@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaemaghchich&layout=compact&theme=radical" alt=alaemaghchich />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaemaghchich&layout=compact&theme=chartreuse-dark" alt=alaemaghchich />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alaemaghchich&theme=chartreuse-dark" alt="alaemaghchich" /></p>
 
