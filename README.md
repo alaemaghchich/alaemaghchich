@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm king of kings alae maghchich</h1>
-<img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" height="7.5rem" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif" alt="MasterFoot" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">A passionate web developer from morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaemaghchich&label=Profile%20views&color=0e75b6&style=flat" alt="alaemaghchich" /> </p>
