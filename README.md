@@ -6,15 +6,7 @@
 
 <br/>
 
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "Code is poetry. I write it with precision & passion"  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <br/>
 
@@ -22,7 +14,7 @@
 
 ```yaml
 name: Alae Maghchich
-title: Full Stack Web Developer
+title: Web Developer
 location: Morocco 🇲🇦
 email: alaemaghchich2004@gmail.com
 
