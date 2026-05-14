@@ -57,7 +57,7 @@ currently:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,php,mysql,electron,bootstrap,figma,wordpress,git,github&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=c" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=html" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=css" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=js" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=php" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=mysql" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=electron" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=bootstrap" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=figma" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=wordpress" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=git" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=github" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=gitlab" height="65" style="margin: 0 6px" /><img src="https://skillicons.dev/icons?i=bash" height="65" style="margin: 0 6px" />
 
 <br/>
 
