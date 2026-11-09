@@ -18,7 +18,6 @@
 <br/>
 
 ---
-<img src=".github/workflows/who.svg" alt="Chat Animation" width="100%">
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
