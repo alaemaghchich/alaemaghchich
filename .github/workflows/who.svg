@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 210" width="100%" height="210">
+  <style>
+    .bg { fill: #000000; } 
+    .bubble { fill: #EAEAEA; rx: 18; ry: 18; }
+    .text { 
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+      font-size: 14px; 
+      fill: #000000; 
+      font-weight: 500; 
+    }
+    
+    /* Animation settings */
+    .typing { 
+      opacity: 0; 
+      animation: typing 1.5s ease-in-out forwards; 
+    }
+    .final { 
+      opacity: 0; 
+      animation: popIn 0.3s ease-out forwards; 
+    }
+    .dot { fill: #8E8E93; animation: bounce 1s infinite; }
+    .d1 { animation-delay: 0s; }
+    .d2 { animation-delay: 0.2s; }
+    .d3 { animation-delay: 0.4s; }
+    
+    /* Sequence Delays */
+    .t1 { animation-delay: 0.5s; }
+    .f1 { animation-delay: 1.9s; }
+    
+    .t2 { animation-delay: 2.5s; }
+    .f2 { animation-delay: 3.9s; }
+    
+    .t3 { animation-delay: 4.5s; }
+    .f3 { animation-delay: 5.9s; }
+    
+    .t4 { animation-delay: 6.5s; }
+    .f4 { animation-delay: 7.9s; }
+    
+    @keyframes typing {
+      0% { opacity: 0; }
+      15% { opacity: 1; }
+      85% { opacity: 1; }
+      100% { opacity: 0; visibility: hidden; }
+    }
+    @keyframes popIn {
+      0% { opacity: 0; transform: translateY(5px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-4px); }
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Row 1 -->
+  <g class="typing t1">
+    <rect x="20" y="20" width="65" height="35" class="bubble" />
+    <circle cx="33" cy="37.5" r="3.5" class="dot d1" />
+    <circle cx="43" cy="37.5" r="3.5" class="dot d2" />
+    <circle cx="53" cy="37.5" r="3.5" class="dot d3" />
+  </g>
+  <g class="final f1">
+    <rect x="20" y="20" width="130" height="35" class="bubble" />
+    <text x="35" y="43" class="text">Hi, I'm Alae 👋</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g class="typing t2">
+    <rect x="20" y="62" width="65" height="35" class="bubble" />
+    <circle cx="33" cy="79.5" r="3.5" class="dot d1" />
+    <circle cx="43" cy="79.5" r="3.5" class="dot d2" />
+    <circle cx="53" cy="79.5" r="3.5" class="dot d3" />
+  </g>
+  <g class="final f2">
+    <rect x="20" y="62" width="370" height="35" class="bubble" />
+    <text x="35" y="85" class="text">Currently a student at 1337 Coding School in Rabat.</text>
+  </g>
+
+  <!-- Row 3 -->
+  <g class="typing t3">
+    <rect x="20" y="104" width="65" height="35" class="bubble" />
+    <circle cx="33" cy="121.5" r="3.5" class="dot d1" />
+    <circle cx="43" cy="121.5" r="3.5" class="dot d2" />
+    <circle cx="53" cy="121.5" r="3.5" class="dot d3" />
+  </g>
+  <g class="final f3">
+    <rect x="20" y="104" width="475" height="35" class="bubble" />
+    <text x="35" y="127" class="text">I craft full-stack web applications & develop low-level systems in C.</text>
+  </g>
+
+  <!-- Row 4 -->
+  <g class="typing t4">
+    <rect x="20" y="146" width="65" height="35" class="bubble" />
+    <circle cx="33" cy="163.5" r="3.5" class="dot d1" />
+    <circle cx="43" cy="163.5" r="3.5" class="dot d2" />
+    <circle cx="53" cy="163.5" r="3.5" class="dot d3" />
+  </g>
+  <g class="final f4">
+    <rect x="20" y="146" width="360" height="35" class="bubble" />
+    <text x="35" y="169" class="text">See my projects at alaemaghchich.netlify.app 🚀</text>
+  </g>
+</svg>
