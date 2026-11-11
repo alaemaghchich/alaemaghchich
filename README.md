@@ -77,6 +77,7 @@ currently:
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br/>CSS3</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br/>Tailwind</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br/>Bootstrap</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" /><br/>python</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br/>MySQL</td>
