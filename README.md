@@ -97,6 +97,8 @@ currently:
 <h2 align="center">🚀 Featured Projects</h2>
 <h3>1337 coding school (42 network) project</h3>
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0f68d99a-b34c-426e-a676-23f0d6cd8f6d" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4722bd2a-f981-4546-9a6e-036523447355" />
+
 
 
 <h4>SoliCode project</h4>
