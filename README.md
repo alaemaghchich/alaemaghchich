@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alae%20Maghchich&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Morocco&descAlignY=58&descSize=18" width="100%" alt="Alae Maghchich - Web Developer | Morocco"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Alae%20Maghchich&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Architect%20in%20Digital%20Technology&descAlignY=58&descSize=18" width="100%" alt="Alae Maghchich - Web Developer | Morocco"/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05397&center=true&vCenter=true&width=640&height=55&lines=Web+Developer+from+Morocco;Building+elegant+web+experiences;Clean+%26+scalable+code;Student+at+42+%7C+sharpening+my+C;Turning+ideas+into+reality" alt="Typing animation" />
