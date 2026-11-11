@@ -102,11 +102,6 @@ currently:
       <p>Full-stack salon booking &amp; management platform with secure PDO-driven scheduling, separate barber / client / admin dashboards, GPS integration, advanced search and a no-show blacklist system.</p>
       <p><code>PHP (OOP)</code> <code>MySQL</code> <code>PDO</code> <code>Bootstrap</code> <code>JavaScript</code></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💈 BarberHub</h3>
-      <p>Barber discovery &amp; booking platform for Morocco, with a full homepage and a dashboard UI.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>Vanilla JS</code></p>
-    </td>
   </tr>
 </table>
 
