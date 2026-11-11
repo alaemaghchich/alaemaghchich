@@ -38,7 +38,7 @@
 
 ```yaml
 name:      Alae Maghchich
-title:     Web Developer
+title:     Architect in Digital Technology
 location:  Morocco 🇲🇦
 email:     alaemaghchich2004@gmail.com
 
