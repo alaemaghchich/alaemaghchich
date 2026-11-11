@@ -43,8 +43,8 @@ location:  Morocco 🇲🇦
 email:     alaemaghchich2004@gmail.com
 
 education:
-  - Web Development @ Solicode (OFPPT)
-  - C programming   @ 42 School
+  - Software engineering @ 1337 coding school (42Network)
+  - Web Development      @ Solicode (OFPPT)
 
 passion:
   - Building elegant web experiences
