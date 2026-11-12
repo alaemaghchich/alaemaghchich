@@ -94,7 +94,7 @@ currently:
 
 <h2 align="center">🚀 Featured Projects</h2>
 <h3>1337 coding school (42 network) project</h3>
-<a href="https://github.com/alaemaghchich/libft-42-1337">
+<a href="https://github.com/alaemaghchich/libft-42-1337" target="_blank">
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/7579f0ab-7369-430f-9fd0-5744e77b7d52" />
 </a>
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4722bd2a-f981-4546-9a6e-036523447355" />
