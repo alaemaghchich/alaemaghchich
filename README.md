@@ -94,8 +94,7 @@ currently:
 
 <h2 align="center">🚀 Featured Projects</h2>
 <h3>1337 coding school (42 network) project</h3>
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/0f68d99a-b34c-426e-a676-23f0d6cd8f6d" />
-<a href="[https://exemple.com](https://github.com/alaemaghchich/libft-42-1337)"></a>
+[![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05397&center=true&vCenter=true&width=640&height=55&lines=Web+Developer+from+Morocco;Building+elegant+web+experiences;Clean+%26+scalable+code;Student+at+42+%7C+sharpening+my+C;Turning+ideas+into+reality)](https://github.com/DenverCoder1/readme-typing-svg)
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4722bd2a-f981-4546-9a6e-036523447355" />
 
 
