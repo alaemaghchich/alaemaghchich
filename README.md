@@ -103,7 +103,7 @@ currently:
 <a herf="">
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a4266ad2-db22-4e69-a3f6-1f2c79858fc7" />
 </a>
-<a herf="https://github.com/alaemaghchich/push_swap-1337--42-network-">
+<a herf="https://github.com/alaemaghchich/push_swap-1337--42-network-.git">
   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/249041a6-3a9c-4df0-8868-b084599e3885" />
 </a>
 
